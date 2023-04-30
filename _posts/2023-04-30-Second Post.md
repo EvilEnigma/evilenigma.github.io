@@ -1,6 +1,6 @@
 ---
 title: Work In Progress
-published: false
+published: true
 ---
 This is another placeholder.
 
